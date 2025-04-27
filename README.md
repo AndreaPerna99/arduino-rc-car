@@ -30,6 +30,8 @@ All the electronics are carefully integrated on a custom breadboard circuit, ens
 ┣ 📁 Images/
 ┃ ┣ 📸 circuit.png                     # Electrical circuit schematic
 ┃ ┣ 📸 car.png                         # Final assembled car
+┃ ┣ 📸 block_diagram.png               # Schematic diagram
+┃ ┣ 📸 system.jpg                      # Complete system setup
 ┣ 📘 Exam_Thesis.pdf                   # Full technical report (Italian)
 ┣ 📘 Exam_Presentation.pdf             # Final project presentation (slides)
 ┗ 📄 README.md                         # This file
@@ -70,11 +72,13 @@ Power is provided by a **7.4V 1600mAh LiPo Battery** optimized for high discharg
 📸 **Electronic Circuit**  
 <p align="center">
   <img src="./images/circuit.png" height="280"/>
+  <img src="./images/block_diagram.png" height="280"/>
 </p>
 
 📸 **Final Assembled RC Car**  
 <p align="center">
   <img src="./images/car.png" height="280"/>
+  <img src="./images/system.png" height="280"/>
 </p>
 
 ---
