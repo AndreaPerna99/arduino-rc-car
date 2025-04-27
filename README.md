@@ -7,7 +7,7 @@ An Arduino-based project integrating hardware design, motor control, and real-ti
 
 ## 🧠 About the Project
 
-**Arduino RC Car AS4800-1** is a fully designed and built remote-controlled (RC) car developed for the **High School Final Exam (Esame di Stato 2017)** at **ITIS Giordano Bruno Budrio (Electronics)**. The project merges hardware, electronics, and embedded software, using **Arduino UNO** as the central control unit.
+**Arduino RC Car AS4800-1** is a fully designed and built remote-controlled (RC) car developed for the **High School Final Exam (Esame di Stato 2017/18)** at **ITIS Giordano Bruno Budrio (Electronics)**. The project merges hardware, electronics, and embedded software, using **Arduino UNO** as the central control unit.
 
 The car is equipped with:
 
