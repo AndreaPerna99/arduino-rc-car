@@ -78,7 +78,7 @@ Power is provided by a **7.4V 1600mAh LiPo Battery** optimized for high discharg
 📸 **Final Assembled RC Car**  
 <p align="center">
   <img src="./images/car.png" height="280"/>
-  <img src="./images/system.png" height="280"/>
+  <img src="./images/system.jpg" height="280"/>
 </p>
 
 ---
